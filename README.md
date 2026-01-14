@@ -22,6 +22,15 @@ This repository is the official implementation of our NeurIPS 24 paper: [EEG2Vid
 - Nov. 25, 2024. EEG-VP code release.
 - Sep. 26, 2024. Accepted by NeurIPS 2024.
 
+## 📚 Documentation
+
+**New Users Start Here!**
+
+- **[📁 Repository Structure Guide](REPOSITORY_STRUCTURE.md)** - Comprehensive overview of the repository organization and component purposes
+- **[🚀 Inference Guide](INFERENCE_GUIDE.md)** - Step-by-step instructions for data preparation, training, and inference
+
+These guides will help you understand the codebase and get started with EEG-to-video generation quickly.
+
 ## Installation
 
 1. Fill out the SEED-DV's [License file](https://cloud.bcmi.sjtu.edu.cn/sharing/o64PBIsIc) and [Apply](https://bcmi.sjtu.edu.cn/ApplicationForm/apply_form/) the dataset.
