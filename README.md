@@ -26,8 +26,9 @@ This repository is the official implementation of our NeurIPS 24 paper: [EEG2Vid
 
 **New Users Start Here!**
 
+- **[⚡ Quick Start Guide](QUICKSTART.md)** - Fast reference for running inference (recommended for experienced users)
 - **[📁 Repository Structure Guide](REPOSITORY_STRUCTURE.md)** - Comprehensive overview of the repository organization and component purposes
-- **[🚀 Inference Guide](INFERENCE_GUIDE.md)** - Step-by-step instructions for data preparation, training, and inference
+- **[🚀 Inference Guide](INFERENCE_GUIDE.md)** - Detailed step-by-step instructions for data preparation, training, and inference
 
 These guides will help you understand the codebase and get started with EEG-to-video generation quickly.
 
